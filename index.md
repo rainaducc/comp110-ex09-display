@@ -3,10 +3,18 @@
 layout: default
 ---
 
-# Summary of Analysis
+<nav>
+  <a href="#summary">Summary</a>
+  <a href="#visuals">Visualizations</a>
+  <a href="#conclusion">Conclusion</a>
+</nav>
+
+
+<h1 id="summary">Summary of Analysis</h1>
 
 Overall, the data suggests that there is strong student interest in incorporating pre-lecture videos into COMP110. The categorical bar chart shows that a majority of students rated their interest highly, indicating clear demand for such resources. Further analysis reveals that students who perceive the course as more difficult tend to express greater interest in pre-lecture videos, suggesting that these videos could help address areas where students struggle. Similarly, students who report lower levels of understanding also show higher interest, reinforcing the idea that pre-lecture videos may improve comprehension. Finally, the positive relationship between perceived difficulty and interest in videos supports the notion that these resources would be especially valuable for students who find the course challenging.
 
+<h2 id="visuals">Visualizations</h2>
 
 ## Overall Student Interest in Pre-Lecture Videos 
 
@@ -33,6 +41,8 @@ Overall, the data suggests that there is strong student interest in incorporatin
 <img src="{{ site.baseurl }}/static/imgs/linegraphaveragediff.png" alt="Image of a line graph displaying the relationship between average perceived difficulty and level of interest in pre-lecture videos."  width="500"/>
 
 
+
+<h2 id="conclusion">Conclusion</h2>
 
 # Conclusion
 

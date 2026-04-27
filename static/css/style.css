@@ -1,0 +1,17 @@
+nav {
+  background: #244c7c;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
