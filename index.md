@@ -14,15 +14,15 @@ layout: default
 
 ## Relationship Between Perceived Difficulty and Interest in Pre-Lecture Videos 
 *box plot – difficulty*
-<img src="/comp110-ex09-display/static/imgs/boxplotdifficulty.png" alt="Image of a box plot for relationship between perceived difficulty and interest in pre-lecture videos. "  width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/output.png" alt="Image of a box plot for relationship between perceived difficulty and interest in pre-lecture videos. "  width="500"/>
 
 ## Relationship Between Student Understanding and Interest in Pre-Lecture Videos
 *box plot – understanding*
-<img src="/comp110-ex09-display/static/imgs/boxplotunderstanding.png" alt="Image of a box plot for relationship between student understanding and interest in pre-lecture videos. "  width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/boxplotunderstanding.png" alt="Image of a box plot for relationship between student understanding and interest in pre-lecture videos. "  width="500"/>
 
 ## Average Perceived Difficulty by Level of Interest in Pre-Lecture Videos
 *line graph*
-<img src="/comp110-ex09-display/static/imgs/linegraphaveragediff.png" alt="Image of a line graph displaying the relationship between average perceived difficulty and level of interest in pre-lecture videos."  width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/linegraphaveragediff.png" alt="Image of a line graph displaying the relationship between average perceived difficulty and level of interest in pre-lecture videos."  width="500"/>
 
 
 
