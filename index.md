@@ -44,7 +44,7 @@ Overall, the data suggests that there is strong student interest in incorporatin
 
 <h1 id="conclusion">Conclusion</h1>
 
-Our recommendation is to incorporate pre-lecture videos into the COMP110 curriculum, as students regard them as a potential method to increase understanding and better manage the perceived difficulty of the course. Overall, our data analysis supports this idea.
+Our recommendation is to incorporate pre-lecture videos into the COMP110 curriculum, as students regard them as a potential method to increase understanding and better manage the perceived difficulty of the course. Overall, our data analysis strongly supports this idea.
 
 First, the categorical bar chart shows that a clear majority of students (73.5%) expressed interest in the implementation of pre-lecture videos, indicating strong overall demand. Additionally, the boxplot comparing perceived difficulty with interest in pre-lecture videos suggests that students who find the course more difficult tend to express greater interest in these resources. This relationship is further supported by the line graph, where the average perceived difficulty increases alongside interest in pre-lecture videos. Together, these findings suggest that students who struggle more with the course are more likely to seek additional support such as pre-lecture videos.
 
